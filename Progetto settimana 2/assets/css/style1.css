@@ -1,0 +1,135 @@
+.coloresfondo {
+    background-color: #222f3e;
+}
+
+.coloresfondo2 {
+    background-color: #364759;
+
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin: 0%;
+    background-color: rgb(241, 235, 235);
+}
+
+#spazio {
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+li {
+    display: inline;
+    margin-right: 20px;
+
+
+
+
+}
+
+#logo {
+    width: 120px;
+    height: auto;
+    padding-bottom: 1px;
+    padding-left: 20px;
+}
+
+#primodiv {
+    text-align: center;
+    background-color: #f56600;
+    margin: 30px;
+    padding: 10px;
+}
+
+section {
+    background-image: url(../images/bg-image.png);
+    text-align: center;
+    padding: 40px;
+    margin: 35px;
+}
+
+#divimmagini {
+    box-sizing: border-box;
+    margin: 30px;
+    padding: 30px;
+    border: 3px solid;
+    box-shadow: 2px;
+    background-color: white;
+    padding-top: 3px;
+    
+   
+
+}
+
+ 
+
+.posizioneimg {
+    display: inline block;
+    box-sizing: border-box;
+    object-fit: cover;
+    width: 300px;
+    height: 350px;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 0 0px 3px rgba(0, 0, 0, 0.1);
+    margin-bottom: 1px;
+    margin-right: 1px;
+   
+
+}
+
+#testonero {
+    color: black;
+}
+
+.blu {
+    display: inline;
+    color: blue;
+    margin-left: 20px;
+
+}
+
+.contenitoreimg {
+
+    margin: 28px;
+    padding: 30px;
+    text-align: center;
+    margin-left: 5px;
+    padding: 15px;
+    
+
+
+
+}
+
+#sizeimg {
+    width: 102%;
+    height: 102%;
+
+}
+
+#titoloimmagine {
+    color: black;
+}
+
+#bottone {
+    color: white;
+
+
+
+}
+
+footer {
+    text-align: center;
+
+}
+
+#logofinale {
+    padding: 50px;
+}
+
+#spaziobottone {
+    padding: 10px;
+}
