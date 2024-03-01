@@ -1,0 +1,81 @@
+body{
+    background-color: black;
+    padding: 0;
+    color: white;
+    margin-right: 33%;
+}
+#logo{
+    width: 100px;
+    padding: 0;
+    margin: 0;
+    float: left
+}
+
+#containerBig{
+   margin-left: 33%;
+   margin-right: 33%;
+   max-width: 33%;
+    padding-top: 10%;
+    flex-wrap: wrap;
+}
+#avatar2{
+    transform: scale(0.5);
+    
+    
+    
+    
+}
+#posAvatar{
+   margin-right: 20px;
+   width: 50%;
+     
+}
+#button1{
+    background-color: gray;
+    padding: 3px;
+    margin-bottom: 5px;
+    
+}
+#button2{
+    background-color:black ;
+}
+h4{
+    color: gray;
+}
+h3{
+    text-align: center;
+}
+#Settings{
+    background-color: rgb(59, 58, 58);
+    padding: 4px;
+    font-size: larger;
+    max-width: 50%;
+    text-align: center;
+    margin: 10px;
+}
+#button3{
+    background-color: black;
+    color: grey;
+    padding: 13px;
+    border: solid grey 1px;
+}
+#input{
+    background-color: black;
+    font-size: xx-large;
+}
+#input2{
+    background-color: black;
+    font-size: xx-large;
+}
+#save{
+    border: solid grey 1px;
+    width: 100%;
+}
+#cancel{
+    border: solid grey 1px;
+    width: 150%;
+}
+#delete{
+    border: solid grey 1px;
+    width: 200%;
+}
